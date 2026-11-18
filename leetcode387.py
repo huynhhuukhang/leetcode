@@ -1,4 +1,4 @@
-from collections import Counter 
+from collections import Counterlee 
 s=input()
 
 def firstUniqChar(s:str)->int:
